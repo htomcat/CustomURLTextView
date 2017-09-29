@@ -2,7 +2,7 @@
 //  CustomURLTextViewUITests.swift
 //  CustomURLTextViewUITests
 //
-//  Created by 浜田　智史 on 2017/09/29.
+//  Created by htomcat on 2017/09/29.
 //  Copyright © 2017年 htomcat. All rights reserved.
 //
 
